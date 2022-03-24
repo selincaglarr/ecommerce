@@ -1,7 +1,7 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://i.pinimg.com/564x/c0/19/96/c01996aee4390a984964ba38495f9c4c.jpg",
+      img: "https://i.pinimg.com/736x/76/f0/86/76f086cd3638068c550f80c0849135d4.jpg",
       title: "SPRING COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "DED7DC",
@@ -15,14 +15,14 @@ export const sliderItems = [
     // },
     {
       id: 2,
-      img: "https://cdn.dribbble.com/users/2079794/screenshots/15616939/media/b3ae7349679efe59ae72eefe8c7eb6b9.jpg?compress=1&resize=800x600&vertical=top",
+      img: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F06%2Fralph-lauren-re-introduces-polo-sport-collection-limited-capsule-GALLERY-1.jpg?w=1600&cbr=1&q=90&fit=max",
       title: "SPORT COLLECTION",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "DFD7DC",
     },
     {
       id: 3,
-      img: "https://cdn.dribbble.com/users/2079794/screenshots/16133348/media/031928ff2fa7ca265bcf619119fed55a.jpg?compress=1&resize=800x600&vertical=top",
+      img: "https://i.insider.com/5c1d401f01c0ea4967392f48?width=1000&format=jpeg&auto=webp",
       title: "SUNGLASSES LOVE",
       desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "DFD7DC",
@@ -32,7 +32,7 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://i.mdel.net/i/db/2022/3/1659524/1659524-800w.jpg",
+      img: "https://mediaslide-europe.storage.googleapis.com/metromodels/pictures/40/501/large-1563268128-1bda29797f6d4de823b729e1713048bf.jpg",
       title: "SHIRT STYLE!",
     },
     {
@@ -42,7 +42,7 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://i.pinimg.com/564x/c0/19/96/c01996aee4390a984964ba38495f9c4c.jpg",
+      img: "https://mediaslide-europe.storage.googleapis.com/metromodels/pictures/584/1453/large-1519666195-a3a610ac20a182b25a4074a75e530761.jpg",
       title: "LIGHT JACKETS",
     },
   ];
@@ -50,7 +50,7 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://mediaslide-europe.storage.googleapis.com/metromodels/pictures/584/1453/large-1519666195-a3a610ac20a182b25a4074a75e530761.jpg",
     },
     {
       id:2,

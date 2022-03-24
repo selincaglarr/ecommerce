@@ -1,5 +1,5 @@
-import ArrowRightOutlined from '@mui/icons-material/ArrowRight';
-import ArrowLeftOutlined from '@mui/icons-material/ArrowLeft';
+import ArrowRightOutlined from "@mui/icons-material/ArrowRight";
+import ArrowLeftOutlined from "@mui/icons-material/ArrowLeft";
 import { useState } from "react";
 import styled from "styled-components";
 import { sliderItems } from "../data";
@@ -51,13 +51,14 @@ const Slide = styled.div`
 const ImgContainer = styled.div`
   height: 100vh;
   display: flex;
-  margin:20px;
+  margin: 20px;
   align-items: center;
   flex: 1;
 `;
 
 const Image = styled.img`
-  height: 80%;
+  height: 90vh;
+  width: 50wh;
 `;
 
 const InfoContainer = styled.div`
@@ -81,8 +82,8 @@ const Button = styled.button`
   font-size: 20px;
   background-color: transparent;
   cursor: pointer;
-  &:hover{
-    opacity:0.4;
+  &:hover {
+    opacity: 0.4;
   }
 `;
 

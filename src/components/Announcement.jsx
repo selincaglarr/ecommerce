@@ -18,7 +18,7 @@ const Announcement = () => {
   return (
     <Container>
       <Announcementt
-        title="Here is your clothes"
+        title="Heree is your clothes"
         subtitle="Dont forget to check your cart"
         link="https://github.com/kristofferandreasen/react-announcement"
         imageSource="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgaWla3gR9dNK9G0cZkeUXnq9-anlfmn93Qw&usqp=CAU"
